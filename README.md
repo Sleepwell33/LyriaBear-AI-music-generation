@@ -53,9 +53,9 @@ Lyria Bear 结合了生物传感器、硬件交互和前沿的 AI 音乐生成�
 * **ESP2 Host IP**：将 ESP2 连上 WiFi 后，从串口监视器查看其显示的 IP，填入 Python 代码。
 * **Python Host**：将运行 Python 的电脑与 ESP 保持在同一 WiFi 下，并根据串口提示配置 IP。
 
-
+* **arduino_esp** :这个才是用于运行的代码版本，记得创建虚拟环境，我的pycharm是pro版本
 
 ---
 
 ## 📸 项目展示
-
+可以参考images和3D Model文件夹
