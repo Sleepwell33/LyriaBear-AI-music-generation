@@ -16,7 +16,7 @@ os.environ["https_proxy"] = "http://127.0.0.1:7897"
 os.environ["all_proxy"] = "socks5://127.0.0.1:7897"
 
 # ====== API 配置 ======
-API_KEY = "AIzaSyClRjioMUQWO7L22Qx6hEQCcc6vNwfoE0k"
+API_KEY = "setAPIKey"
 MODEL = "models/lyria-realtime-exp"
 BPM_DEFAULT = 90
 

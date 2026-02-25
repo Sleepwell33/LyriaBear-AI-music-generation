@@ -16,7 +16,7 @@ os.environ["all_proxy"] = "socks5://127.0.0.1:7897"
 
 
 # ====== 配置API Key ======
-API_KEY = "AIzaSyClRjioMUQWO7L22Qx6hEQCcc6vNwfoE0k"
+API_KEY = "setAPIKey"
 MODEL = "models/lyria-realtime-exp"
 BPM = 90 #这里可以改变节奏，比如和心率数值联动，文档里有写
 
